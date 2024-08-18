@@ -2,11 +2,149 @@
 *****************************************************************
 ## Математика
 
-|1|2|3|
-|-----|-------------|-------|
-|1|2|3|
+<table>
+<tr bgcolor="#D3D3D3"> <!-- ** ВСОШ ** -->
+<td colspan="4" align="center"><b>ВСОШ</b></td> 
+</tr>
+<tr  align="center">
+<td><b>Школьный</b></td>
+<td><b>Муниципальный</b></td>
+<td><b>Региональный</b></td>
+<td><b>Заключительный</b></td>
+</tr><tr>
+<td> <!-- ** Школьный ** -->
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/tasks-math-4-sch-msk-23-24.pdf">Задания 4 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/ans-math-4-sch-msk-23-24.pdf">Ответы 4 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/tasks-math-5-sch-msk-23-24.pdf">Задания 5 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/ans-math-5-sch-msk-23-24.pdf">Ответы 5 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/tasks-math-6-sch-msk-23-24.pdf">Задания 6 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/ans-math-6-sch-msk-23-24.pdf">Ответы 6 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/tasks-math-7-sch-msk-23-24.pdf">Задания 7 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/ans-math-7-sch-msk-23-24.pdf">Ответы 7 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/tasks-math-8-sch-msk-23-24.pdf">Задания 8 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/ans-math-8-sch-msk-23-24.pdf">Ответы 8 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/tasks-math-9-sch-msk-23-24.pdf">Задания 9 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/ans-math-9-sch-msk-23-24.pdf">Ответы 9 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/tasks-math-10-sch-msk-23-24.pdf">Задания 10 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/ans-math-10-sch-msk-23-24.pdf">Ответы 10 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/tasks-math-11-sch-msk-23-24.pdf">Задания 11 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/ans-math-11-sch-msk-23-24.pdf">Ответы 11 класс</a><br>
+</td>
+
+<td> <!-- ** Муник ** -->
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/tasks-math-7-mun-mosobl-23-24.pdf">Задания 7 класс</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/sol-math-7-mun-mosobl-23-24.pdf">Решения 7 класс</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/tasks-math-8-mun-mosobl-23-24.pdf">Задания 8 класс</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/sol-math-8-mun-mosobl-23-24.pdf">Решения 8 класс</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/tasks-math-9-mun-mosobl-23-24.pdf">Задания 9 класс</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/sol-math-9-mun-mosobl-23-24.pdf">Решения 9 класс</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/tasks-math-10-mun-mosobl-23-24.pdf">Задания 10 класс</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/sol-math-10-mun-mosobl-23-24.pdf">Решения 10 класс</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/tasks-math-11-mun-mosobl-23-24.pdf">Задания 11 класс</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/sol-math-11-mun-mosobl-23-24.pdf">Решения 11 класс</a><br>
+</td>
+
+<td> <!-- ** Регион ** -->
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/tasks-math-9-day1-reg-23-24.pdf">Задания 9 класс (1)</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/tasks-math-9-day2-reg-23-24.pdf">Задания 9 класс (2)</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/sol-math-9-reg-23-24.pdf">Решения 9 класс</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/tasks-math-10-day1-reg-23-24.pdf">Задания 10 класс (1)</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/tasks-math-10-day2-reg-23-24.pdf">Задания 10 класс (2)</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/sol-math-10-reg-23-24.pdf">Решения 10 класс</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/tasks-math-11-day1-reg-23-24.pdf">Задания 11 класс (1)</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/tasks-math-11-day2-reg-23-24.pdf">Задания 11 класс (2)</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/sol-math-11-reg-23-24.pdf">Решения 11 класс</a><br>
+</td>
+
+<td> <!-- ** Финал ** -->
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/final/math/tasks-math-9-day1-final-23-24.pdf">Задания 9 класс (1)</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/final/math/sol-math-9-day1-final-23-24.pdf">Решения 9 класс (1)</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/final/math/tasks-math-9-day2-final-23-24.pdf">Задания 9 класс (2)</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/final/math/sol-math-9-day2-final-23-24.pdf">Решения 9 класс (2)</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/final/math/tasks-math-10-day1-final-23-24.pdf">Задания 10 класс (1)</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/final/math/sol-math-10-day1-final-23-24.pdf">Решения 10 класс (1)</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/final/math/tasks-math-10-day2-final-23-24.pdf">Задания 10 класс (2)</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/final/math/sol-math-10-day2-final-23-24.pdf">Решения 10 класс (2)</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/final/math/tasks-math-11-day1-final-23-24.pdf">Задания 11 класс (1)</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/final/math/sol-math-11-day1-final-23-24.pdf">Решения 11 класс (1)</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/final/math/tasks-math-11-day2-final-23-24.pdf">Задания 11 класс (2)</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/final/math/sol-math-11-day2-final-23-24.pdf">Решения 11 класс (2)</a><br>
+
+</td>
+</table>
 
 ## Информатика
+
+<table>
+<tr bgcolor="#D3D3D3"> <!-- ** ВСОШ ** -->
+<td colspan="4" align="center"><b>ВСОШ</b></td> 
+</tr>
+<tr  align="center">
+<td><b>Школьный</b></td>
+<td><b>Муниципальный</b></td>
+<td><b>Региональный</b></td>
+<td><b>Заключительный</b></td>
+</tr><tr>
+<td> <!-- ** Школьный ** -->
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/tasks-math-4-sch-msk-23-24.pdf">Задания 4 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/ans-math-4-sch-msk-23-24.pdf">Ответы 4 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/tasks-math-5-sch-msk-23-24.pdf">Задания 5 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/ans-math-5-sch-msk-23-24.pdf">Ответы 5 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/tasks-math-6-sch-msk-23-24.pdf">Задания 6 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/ans-math-6-sch-msk-23-24.pdf">Ответы 6 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/tasks-math-7-sch-msk-23-24.pdf">Задания 7 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/ans-math-7-sch-msk-23-24.pdf">Ответы 7 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/tasks-math-8-sch-msk-23-24.pdf">Задания 8 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/ans-math-8-sch-msk-23-24.pdf">Ответы 8 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/tasks-math-9-sch-msk-23-24.pdf">Задания 9 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/ans-math-9-sch-msk-23-24.pdf">Ответы 9 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/tasks-math-10-sch-msk-23-24.pdf">Задания 10 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/ans-math-10-sch-msk-23-24.pdf">Ответы 10 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/tasks-math-11-sch-msk-23-24.pdf">Задания 11 класс</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/school/math/ans-math-11-sch-msk-23-24.pdf">Ответы 11 класс</a><br>
+</td>
+
+<td> <!-- ** Муник ** -->
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/tasks-math-7-mun-mosobl-23-24.pdf">Задания 7 класс</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/sol-math-7-mun-mosobl-23-24.pdf">Решения 7 класс</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/tasks-math-8-mun-mosobl-23-24.pdf">Задания 8 класс</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/sol-math-8-mun-mosobl-23-24.pdf">Решения 8 класс</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/tasks-math-9-mun-mosobl-23-24.pdf">Задания 9 класс</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/sol-math-9-mun-mosobl-23-24.pdf">Решения 9 класс</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/tasks-math-10-mun-mosobl-23-24.pdf">Задания 10 класс</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/sol-math-10-mun-mosobl-23-24.pdf">Решения 10 класс</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/tasks-math-11-mun-mosobl-23-24.pdf">Задания 11 класс</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/sol-math-11-mun-mosobl-23-24.pdf">Решения 11 класс</a><br>
+</td>
+
+<td> <!-- ** Регион ** -->
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/tasks-math-9-day1-reg-23-24.pdf">Задания 9 класс (1)</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/tasks-math-9-day2-reg-23-24.pdf">Задания 9 класс (2)</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/sol-math-9-reg-23-24.pdf">Решения 9 класс</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/tasks-math-10-day1-reg-23-24.pdf">Задания 10 класс (1)</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/tasks-math-10-day2-reg-23-24.pdf">Задания 10 класс (2)</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/sol-math-10-reg-23-24.pdf">Решения 10 класс</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/tasks-math-11-day1-reg-23-24.pdf">Задания 11 класс (1)</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/tasks-math-11-day2-reg-23-24.pdf">Задания 11 класс (2)</a><br>
+<a href="https://tasks.olimpiada.ru/upload/files/tasks/72/2023/sol-math-11-reg-23-24.pdf">Решения 11 класс</a><br>
+</td>
+
+<td> <!-- ** Финал ** -->
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/final/math/tasks-math-9-day1-final-23-24.pdf">Задания 9 класс (1)</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/final/math/sol-math-9-day1-final-23-24.pdf">Решения 9 класс (1)</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/final/math/tasks-math-9-day2-final-23-24.pdf">Задания 9 класс (2)</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/final/math/sol-math-9-day2-final-23-24.pdf">Решения 9 класс (2)</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/final/math/tasks-math-10-day1-final-23-24.pdf">Задания 10 класс (1)</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/final/math/sol-math-10-day1-final-23-24.pdf">Решения 10 класс (1)</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/final/math/tasks-math-10-day2-final-23-24.pdf">Задания 10 класс (2)</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/final/math/sol-math-10-day2-final-23-24.pdf">Решения 10 класс (2)</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/final/math/tasks-math-11-day1-final-23-24.pdf">Задания 11 класс (1)</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/final/math/sol-math-11-day1-final-23-24.pdf">Решения 11 класс (1)</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/final/math/tasks-math-11-day2-final-23-24.pdf">Задания 11 класс (2)</a><br>
+<a href="https://всош.цпм.рф/upload/files/Arhive_tasks/2023-24/final/math/sol-math-11-day2-final-23-24.pdf">Решения 11 класс (2)</a><br>
+
+</td>
+</table>
 
 ## Информационная безопасность
 <table>
